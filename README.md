@@ -1,18 +1,16 @@
-# ALEXWARELLC
-### https://alexwarellc.github.io/
+# 👋 Hi! I'm Alex.
+I am a full-stack desktop/web application developer. I like working with C# and Electron. I like to poke around in applications to see how their built and research into better solutions. I currently work on small-scale projects but would love to work with some larger ones in the future. If you're interested, here's what I'm working on:
 
-Plugin Feedback @ Bananas Bungalow 
+- **Terabit Desktop** - The desktop edition of the Terabit Hosting Managment Panel (THMP).
+- **Nitrogen** - A small library for content delivery, made in C# for NuGet.
 
-Owner @ Altex Studios 
-
-SCP: SL LocalAdmin Contributor
-
-YouTuber (ALEXWARELLC or AltexStudios)
-
+## 📊 My Statistics
 
 ![ALEXWARELLC](https://github-readme-stats.vercel.app/api?username=ALEXWARELLC&show_icons=true&theme=transparent)
 
+## 🎵 What am I listening to?
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31obkbf3ds6mvgxireqf4osxbcfe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]([https://spotify-github-profile.vercel.app/api/view?uid=31obkbf3ds6mvgxireqf4osxbcfe&redirect=true](https://open.spotify.com/user/31obkbf3ds6mvgxireqf4osxbcfe))
 
-## LocalAdmin | Northwood Studios
-### [![.NET CI](https://github.com/northwood-studios/LocalAdmin-V2/actions/workflows/dotnet-core.yml/badge.svg)](https://github.com/northwood-studios/LocalAdmin-V2/actions/workflows/dotnet-core.yml) [![HitCount](https://hits.dwyl.com/northwood-studios/LocalAdmin-V2.svg)](http://github.com/northwood-studios/LocalAdmin-V2) [![issues](https://img.shields.io/github/issues/northwood-studios/LocalAdmin-V2)](https://github.com/northwood-studios/LocalAdmin-V2/issues) [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
+> I'd love to get some new music suggestions! Feel free to message me your suggestions :)
