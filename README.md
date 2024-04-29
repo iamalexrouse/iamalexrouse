@@ -4,6 +4,8 @@ I am a full-stack desktop/web application developer. I like working with C# and 
 - **Terabit Desktop** - The desktop edition of the Terabit Hosting Managment Panel (THMP).
 - **Nitrogen** - A small library for content delivery, made in C# for NuGet.
 
+Anyone may use the code I create here as they wish, I dont expect credits or attributions (That would be nice though.)
+
 ## 📊 My Statistics
 
 ![ALEXWARELLC](https://github-readme-stats.vercel.app/api?username=ALEXWARELLC&show_icons=true&theme=transparent)
