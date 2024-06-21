@@ -2,7 +2,6 @@
 I am a full-stack desktop/web application developer. I like working with C# and Electron. I like to poke around in applications to see how their built and research into better solutions. I currently work on small-scale projects but would love to work with some larger ones in the future. If you're interested, here's what I'm working on:
 
 - **Terabit Desktop** - The desktop edition of the Terabit Hosting Managment Panel (THMP).
-- **Nitrogen** - A small library for content delivery, made in C# for NuGet.
 
 Anyone may use the code I create here as they wish, I dont expect credits or attributions (That would be nice though.)
 
