@@ -17,7 +17,7 @@
 <div align='center'>
   <h2>👋 About Me</h2>
 </div>
-<div></div>
+<div>
   <p>Hi, I'm Alex. I am a software developer who likes to make applications just for fun. I like learning many different programming languages and techniques. I'm always looking for an oppotunity to learn off those who have way more experience, which will help me produce more stable & scalable applications.</p>
   <h4>Languages I've learned</h4>
   <ul>
@@ -31,6 +31,7 @@
   <ul>
     <li>Ruby (Ruby on Rails)</li>
   </ul>
+  
 </div>
 
 <br/>
