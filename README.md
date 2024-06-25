@@ -1,21 +1,4 @@
-# 👋 Hi! I'm Alex.
-I am a full-stack desktop/web application developer. I like working with C# and Electron. I like to poke around in applications to see how their built and research into better solutions. I currently work on small-scale projects but would love to work with some larger ones in the future. If you're interested, here's what I'm working on:
-
-- **Terabit Desktop** - The desktop edition of the Terabit Hosting Managment Panel (THMP).
-
-Anyone may use the code I create here as they wish, I dont expect credits or attributions (That would be nice though.)
-
-## 📊 My Statistics
-
-![ALEXWARELLC](https://github-readme-stats.vercel.app/api?username=ALEXWARELLC&show_icons=true&theme=transparent)
-
-## 🎵 What am I listening to?
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31obkbf3ds6mvgxireqf4osxbcfe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]([https://spotify-github-profile.vercel.app/api/view?uid=31obkbf3ds6mvgxireqf4osxbcfe&redirect=true](https://open.spotify.com/user/31obkbf3ds6mvgxireqf4osxbcfe))
-
-
-> I'd love to get some new music suggestions! Feel free to message me your suggestions :)
-
+![Alex - Banner](https://github.com/ALEXWARELLC/ALEXWARELLC/assets/123724383/d5a9d012-47dd-49eb-bf4d-2536fca60380)
 <div align='center'>
   <h1>Alex Rouse</h1>
   <p>Another Software Developer</p>
@@ -23,4 +6,34 @@ Anyone may use the code I create here as they wish, I dont expect credits or att
 
 <br />
 
-<div></div>
+<div align='center'>
+  <h2>My GtHub Statistics</h2>
+  
+  ![ALEXWARELLC](https://github-readme-stats.vercel.app/api?username=ALEXWARELLC&show_icons=true&theme=transparent)
+</div>
+
+<br />
+
+<div>
+  <h2>👋 About Me</h2>
+  <p>Hi, I'm Alex. I am a software developer who likes to make applications just for fun. I like learning many different programming languages and techniques. I'm always looking for an oppotunity to learn off those who have way more experience, which will help me produce more stable & scalable applications.</p>
+  <h4>Languages I've learned</h4>
+  <ul>
+    <li>x86 Assembly</li>
+    <li>C++ (With Standard Library)</li>
+    <li>C# (.NET, Mono)</li>
+    <li>Web Technologies (HTML, CSS, React)</li>
+  </ul>
+
+  <h4>📊 Languages I'm Learning</h4>
+  <ul>
+    <li>Ruby (Ruby on Rails)</li>
+  </ul>
+</div>
+
+<br/>
+
+<div align='center'>
+  <h2>Contact Me</h2>
+  <p>If you feel the need to contact me, feel free to send me an email @ alexwarellc@gmail.com</p>
+</div>
