@@ -15,3 +15,12 @@ Anyone may use the code I create here as they wish, I dont expect credits or att
 
 
 > I'd love to get some new music suggestions! Feel free to message me your suggestions :)
+
+<div align='center'>
+  <h1>Alex Rouse</h1>
+  <p>Another Software Developer</p>
+</div>
+
+<br />
+
+<div></div>
