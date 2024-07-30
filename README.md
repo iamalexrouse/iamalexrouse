@@ -25,11 +25,13 @@
     <li>C++ (With Standard Library)</li>
     <li>C# (.NET, Mono)</li>
     <li>Web Technologies (HTML, CSS, React)</li>
+    <li>JavaScript/TypeScript + NPM</li>
   </ul>
 
   <h4>📊 Languages I'm Learning</h4>
   <ul>
     <li>Ruby (Ruby on Rails)</li>
+    <li>Rust</li>
   </ul>
   
 </div>
