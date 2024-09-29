@@ -9,7 +9,7 @@
 <div align='center'>
   <h2>My GitHub Statistics</h2>
   
-  ![ALEXWARELLC](https://github-readme-stats.vercel.app/api?username=ALEXWARELLC&show_icons=true&theme=transparent)
+  ![ALEXWARELLC](https://github-readme-stats.vercel.app/api?username=iamalexrouse&show_icons=true&theme=transparent)
 </div>
 
 <br />
