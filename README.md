@@ -40,5 +40,5 @@
 
 <div align='center'>
   <h2>Contact Me</h2>
-  <p>If you feel the need to contact me, feel free to send me an email @ alexwarellc@gmail.com</p>
+  <p>If you feel the need to contact me, feel free to send me an email @ alex@leronix.net</p>
 </div>
